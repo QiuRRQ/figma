@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "404023807191",
+    "firebase_url": "https://figma-94324.firebaseio.com",
+    "project_id": "figma-94324",
+    "storage_bucket": "figma-94324.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404023807191:android:82e7f6e3739317778ef492",
+        "android_client_info": {
+          "package_name": "com.example.figmaui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404023807191-julc925g3ttuomik629vktu8nr7hlc88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsFS7Di3J2gvXR0Ine-k0eky5oB7RkI_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404023807191-julc925g3ttuomik629vktu8nr7hlc88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
